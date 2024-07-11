@@ -1,0 +1,55 @@
+* {
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+    
+}
+
+#opcionmenu {
+
+    color: #ed71cc;
+    padding: 20px;
+    font-size: 18px;
+}
+
+#opcionmenu:hover {
+
+    font-size: 20px;
+    color: rgb(233, 86, 194);
+    transition: 1.5s;
+}
+
+
+
+#fototexto { 
+    margin-top: 121px !important;
+    background-image: linear-gradient(to top, rgba(233, 86, 194, 0.192) 0%, rgb(233, 86, 194) 100%), url(img/tiendarosa.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    align-content: center;
+    color: white;
+    padding: 40px;
+    height: 85vh;
+    width: 100%;
+}
+
+.descripcion {
+
+    width: 100%;
+    background-color: red;
+}
+
+#contenido {
+
+    width: 100% !important;
+    background-color: rgb(255, 255, 255) !important;
+    margin: auto;
+}
+
+#iconoenvio {
+
+    font-size: 90px;
+}
